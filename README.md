@@ -17,8 +17,6 @@ jellyfish dump -c -t -L 2 pan010.23.jf2 > pan010.23.kmers
 jellyfish dump -c -t -L 2 pan011.23.jf2 > pan011.23.kmers
 ```
 
-```bash
-
 ## Sep 2. From child genome take only kmers that have frequency == 1
 
 ```bash
